@@ -38,6 +38,6 @@ Redux Syncfusion
 Notion  VS Code Postman
 
 
-##linkedin:https://www.linkedin.com/in/umar-taufeeq/
+linkedin:https://www.linkedin.com/in/umar-taufeeq/
 
 🚀 Let's collaborate, innovate, and create something extraordinary together! I'm excited to connect with like-minded individuals who are passionate about technology, design, and making a positive impact. Reach out 📩, and let's bring our ideas to life! 💡
